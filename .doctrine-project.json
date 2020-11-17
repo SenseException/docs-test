@@ -23,7 +23,7 @@
         },
         {
             "name": "1.0",
-            "branchName": "1.0",
+            "branchName": null,
             "slug": "1.0",
             "maintained": false
         }
