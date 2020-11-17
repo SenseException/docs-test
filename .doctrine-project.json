@@ -1,0 +1,31 @@
+{
+    "active": true,
+    "name": "docs-test",
+    "shortName": "docs-test",
+    "slug": "docs-test",
+    "docsSlug": "docs-test",
+    "versions": [
+        {
+            "name": "3.0",
+            "branchName": "3.0",
+            "slug": "3.0",
+            "upcoming": true
+        },
+        {
+            "name": "2.0",
+            "branchName": "2.0",
+            "slug": "2.0",
+            "current": true,
+            "aliases": [
+                "current",
+                "stable"
+            ]
+        },
+        {
+            "name": "1.0",
+            "branchName": "1.0",
+            "slug": "1.0",
+            "maintained": false
+        }
+    ]
+}
